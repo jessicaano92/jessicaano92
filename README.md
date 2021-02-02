@@ -6,7 +6,14 @@ I began my journey in coding all from a Facebook ad! They got me good. Having gr
 I currently mentor and assist a class of 17 students as a volunteer teacher's assistant at Emily Griffith's Web Development Pilot program!
 
 ### Let's Connect:
-[<img align="left" alt="Jessica Anocibar | LinkedIn" width="22px" src="https://www.linkedin.com/in/jessica-anocibar/" />] [https://www.linkedin.com/in/jessica-anocibar/]
+[<img align="left" alt="Jessica Anocibar | LinkedIn" width="22px" src="https://www.linkedin.com/in/jessica-anocibar/" />] [linkedin]
+
+
+<br />
 
 
 - ⚡ Fun fact: I usually spend more time in the air than on the ground. What does that mean? Let's chat and I'll tell you :)
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/jessica-anocibar/
