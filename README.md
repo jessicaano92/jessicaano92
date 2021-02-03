@@ -11,6 +11,6 @@ My curiosity got the best of me. Wanting to understand web development and learn
 <br />
 
 
-- ⚡ Fun fact: I enjoy learning the ukulele and singing
+- ⚡ Fun fact: I enjoy learning the ukulele, singing, and anything to with the outdoors
 
 <br />
