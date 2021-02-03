@@ -14,7 +14,7 @@ My curiosity got the best of me. Wanting to understand web development and learn
 <br />
 
 
-- ⚡ Fun fact: I love music and anything to do with the outdoors
+- ⚡ Fun fact: I thrive on caffeine and nature
 
 <br />
 
