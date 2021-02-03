@@ -14,7 +14,7 @@ My curiosity got the best of me. Wanting to understand web development and learn
 <br />
 
 
-- ⚡ Fun fact: I thrive on caffeine and nature
+- ⚡ Fun fact: I thrive on caffeine, coding, and nature
 
 <br />
 
