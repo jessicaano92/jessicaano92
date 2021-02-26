@@ -1,4 +1,4 @@
-### Hello! I'm Jessica Anocibar.
+### Hello! I'm Jessica Anocibar (an-oh-see-bar).
 
 ## Friend, Wife, Student, and Mentor
 
