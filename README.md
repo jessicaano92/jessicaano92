@@ -14,9 +14,10 @@ My curiosity got the best of me. Wanting to understand web development and learn
 <br />
 
 
-- ⚡ Fun fact: I thrive on great coffee, nature, biking, and taking on challenges and learning new technologies. 
+- ⚡ Fun fact: I thrive on great coffee, nature, biking, and taking on challenges and learning new technologies! 
 
 <br />
+
 
 
 [linkedin]: https://www.linkedin.com/in/jessica-anocibar/
